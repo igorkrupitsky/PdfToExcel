@@ -1,0 +1,12 @@
+C:\Users\80014379\source\repos\PdfToExcel\bin\Debug\PdfToExcel.exe.config
+C:\Users\80014379\source\repos\PdfToExcel\bin\Debug\PdfToExcel.exe
+C:\Users\80014379\source\repos\PdfToExcel\bin\Debug\PdfToExcel.pdb
+C:\Users\80014379\source\repos\PdfToExcel\bin\Debug\PdfToExcel.xml
+C:\Users\80014379\source\repos\PdfToExcel\obj\Debug\PdfToExcel.vbproj.AssemblyReference.cache
+C:\Users\80014379\source\repos\PdfToExcel\obj\Debug\PdfToExcel.Form1.resources
+C:\Users\80014379\source\repos\PdfToExcel\obj\Debug\PdfToExcel.Resources.resources
+C:\Users\80014379\source\repos\PdfToExcel\obj\Debug\PdfToExcel.vbproj.GenerateResource.cache
+C:\Users\80014379\source\repos\PdfToExcel\obj\Debug\PdfToExcel.vbproj.CoreCompileInputs.cache
+C:\Users\80014379\source\repos\PdfToExcel\obj\Debug\PdfToExcel.exe
+C:\Users\80014379\source\repos\PdfToExcel\obj\Debug\PdfToExcel.xml
+C:\Users\80014379\source\repos\PdfToExcel\obj\Debug\PdfToExcel.pdb
