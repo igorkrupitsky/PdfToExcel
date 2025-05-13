@@ -1,5 +1,8 @@
 Export PDF To Excel using AI
 
+Originally posted here:
+<https://www.codeproject.com/Articles/5386724/PDF-To-Excel/>
+
 This application shows to to use OpenAI or Anthropic Vision API to export a PDF file to Excel.
 
 # Introduction
