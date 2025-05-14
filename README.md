@@ -14,7 +14,7 @@ This application will convert PDF to Excel by using the following steps:
 4. Use OpenAI or Anthropic Vision API to convert image to HTML
 5. Convert HTML files to one Excel file using VBA
  
-![](https://github.com/igorkrupitsky/PdfToExcel/blob/main/PdfToExcel1-r-700.png?raw=true)
+![](img/PdfToExcel1-r-700.png)
 
 Using the code
 1. Get Anthropic API key https://console.anthropic.com/settings/keys
